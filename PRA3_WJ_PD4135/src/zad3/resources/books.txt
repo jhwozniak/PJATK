@@ -1,0 +1,5 @@
+Stanisław Lem,Eden,52.75,eden.jpg
+Andrzej Pilipiuk,Oko jelenia,60.50,okojelenia.jpg
+Władysław Reymont,Chłopi,62.40,chlopi.jpg
+Arthur Conan Doyle,Sherlock Holmes,24.50,sherlockholmes.jpg
+Agatha Christie,ABC murders,43.00,abcmurders.jpg
