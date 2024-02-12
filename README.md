@@ -1,2 +1,2 @@
 # PJATK
-all my projects and assignments from postgraduate studies "Information systems, software and databases" @ PJATK
+selected projects from postgraduate studies "Information systems, software and databases" @ Polish-Japanese Academy of Information Technology (PJATK)
